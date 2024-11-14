@@ -1,6 +1,6 @@
 # School Management System
 
-A Python-based school management system for managing student and teacher information. This application uses a graphical user interface (GUI) built with **Tkinter** and a backend database implemented using **SQLite**. The project allows users to log in as either students or teachers and access relevant sections for managing records.
+A Python-based school management system for managing student and teacher information. This application uses a graphical user interface (GUI) built with **Tkinter** and a backend database implemented using **SQLite**. The project allows users to log in and access relevant sections for managing records.
 
 ## Technologies Used
 - **Python**: The main programming language used for backend logic and UI.
